@@ -1,0 +1,3 @@
+[submodule "3gpp-amrnb"]
+	path = 3gpp-amrnb
+	url = https://github.com/wanglihe/3gpp-amrnb.git
